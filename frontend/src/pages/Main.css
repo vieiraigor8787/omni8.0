@@ -45,3 +45,8 @@
     background: #fff;
     cursor: pointer;
 }
+.main-container .empty{
+    font-size: 32px;
+    color: #999;
+    margin-top: 300px;
+}
